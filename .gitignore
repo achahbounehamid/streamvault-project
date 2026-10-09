@@ -1,0 +1,9 @@
+# Fichiers système et IDE
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
+*.pyc
+
+# Variables d'environnement
+.env
